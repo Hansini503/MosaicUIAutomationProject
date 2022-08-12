@@ -185,8 +185,12 @@ public class AdminOfferPage extends TestBase {
     }
 
     public void getUniquePromoCode(){
+
         clearAndType(txtPromoCode,setUniquePromoCode());
+
     }
+
+
 
 }
 
